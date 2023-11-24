@@ -12,7 +12,7 @@ The C Program I have posted is the starting point of a simulation effort.
 
 ### Explanation and Comment
 
-I am not formally allegient to Emergent Gravity ideas (nor of the Einstein Field equations), but arrived at this hypothesis somewhat independently. 
+I am not formally allegiant to Emergent Gravity ideas (nor of the Einstein Field equations), but arrived at this hypothesis somewhat independently. 
 
 
 
