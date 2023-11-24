@@ -1,6 +1,6 @@
 # My collateral gravitation hypothesis
 
-I, Nathan Frick, hypothesized in 2011 that, if we are embracing the idea of a quantum-scale entropy decrease as a cause of the gravitation mechanism, then not only will masses attract, but there are interstitial points between masses that will additionally act to attract other masses.  ( I am not formally allegient to Emergent Gravity ideas, but arrived at this hypothesis somewhat independently. )
+I, Nathan Frick, hypothesized in 2011 that, if we are embracing the idea of a quantum-scale entropy decrease as a cause of the gravitation mechanism, then not only will masses attract, but there are interstitial points between masses that will additionally act to attract other masses.  
 
 ## Example
 
@@ -9,6 +9,10 @@ Two planets are experiencing a gravitational attraction,  an asteroid nearby wil
 ## The N-body simulation
 
 The C Program I have posted is the starting point of a simulation effort.
+
+### Explanation and Comment
+
+I am not formally allegient to Emergent Gravity ideas (nor of the Einstein Field equations), but arrived at this hypothesis somewhat independently. 
 
 
 
